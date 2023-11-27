@@ -1,0 +1,25 @@
+/* Styles for the entire webpage */
+body {
+  margin: 0;
+  /* Remove default margin */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  /* Set a default font family for the entire page */
+  -webkit-font-smoothing: antialiased;
+  /* Improve font rendering on WebKit browsers */
+  -moz-osx-font-smoothing: grayscale;
+  /* Improve font rendering on macOS */
+}
+
+/* Styles for code elements */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+  /* Set a font family for code elements */
+}
+
+/* Additional styles for the body, setting the background color to aqua */
+body {
+  background-color: aqua;
+}
